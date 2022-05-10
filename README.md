@@ -2,7 +2,7 @@
 
 My repository for linking all projects made in the TQI DIO Fullstack Bootcamp.
 
-> This is my solution for the introducion module of the [DIO | TQI Fullstack Bootcamp[(https://web.dio.me/track/tqi-fullstack-developer)
+> This is my solution for the introducion module of the [DIO | TQI Fullstack Bootcamp](https://web.dio.me/track/tqi-fullstack-developer)
 
 ## Projects
 
